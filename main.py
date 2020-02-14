@@ -85,7 +85,7 @@ class Bot(telebot.TeleBot):
                 bot.send_message(message.from_user.id, str(answer.pop(0)))
 
 
-bot = Bot("876437369:AAFqEU24AoUGzVnI3PiBGkVZFPAhsdJuD-4")
+bot = Bot("")
 
 
 @bot.message_handler(commands=['start', 'help'])
