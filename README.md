@@ -11,11 +11,3 @@
 бот - @Find_weather_bot  
   
 UPD: файлы Procfile и requirements.txt созданы для хостинга бота на heroku
-
-
-
-
-<<<<<<< HEAD
-
-=======
->>>>>>> review_2
